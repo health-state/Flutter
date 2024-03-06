@@ -4,7 +4,6 @@ import 'package:health_state/presention/resources/color_manager.dart';
 import 'package:health_state/presention/resources/fonts_manager.dart';
 import 'package:health_state/presention/resources/routes_Manager.dart';
 import 'package:health_state/presention/resources/strings_Manager.dart';
-
 import '../resources/assets_Manager.dart';
 import '../resources/values_manager.dart';
 
