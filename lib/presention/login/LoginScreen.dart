@@ -34,7 +34,7 @@ class LoginView extends StatelessWidget {
     SizedBox(
     height: AppSize.s60,
     ),
-      TextFormField( validator:(value){},decoration:InputDecoration(hintText: 'E_mail',label:Text('E_mail') ,border: OutlineInputBorder(borderRadius:BorderRadius.circular(30))),),
+      TextFormField( validator:(vale){},decoration:InputDecoration(hintText: 'E_mail',label:Text('E_mail') ,border: OutlineInputBorder(borderRadius:BorderRadius.circular(30))),),
     ],
     ),
     ),
